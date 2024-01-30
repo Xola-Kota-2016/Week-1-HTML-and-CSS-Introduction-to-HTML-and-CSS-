@@ -1,7 +1,7 @@
 # Week-1-HTML-and-CSS-Introduction-to-HTML-and-CSS-
 Notes on Week 1 HTML and CSS: Introduction HTML to CSS
 
-Introduction to HTML
+1. Introduction to HTML
 
 - HyperText Markup Language short for HTML is used for formating or showing content such as texts, images and videos on the web. HTML is a declarative language it does not use programming logic, loops or functions.
    
@@ -19,7 +19,7 @@ Question and Answers
   h1 The End of the World is Nigh /h1 article Musings on our Current Social Predicament, by em Trans I. Tory /em p Random content…./p /article
   - Four, because there are four tags.
 
-HTML Text Formatting
+2. HTML Text Formatting
 
 - HTML uses tags to structure web pages, tags are enclosed using less-than and greater-than symbols to mark different elements. For example displaying a paragraph on the web browser using HTML we'd use <p> </p> and then in between these tags will be the text to be displayed. HTML has many other tags that can be used to structure or format a webpage.
 - HTML has 6 levels of Headline tags, h1 is the biggest headline and can be used as the main title. h2, h3.. can be used as subtitles.
@@ -46,3 +46,8 @@ Question and Answes
   - We should use the level of headline that makes sense, based on the semantic meaning of content.
 - Which markup is correct?
   &lt;time datetime="2025-10-08"&gt;October 8, 2025&lt;/time&gt;
+
+3. HTML Capabilities
+   
+
+  
