@@ -31,3 +31,4 @@ HTML Text Formatting
 - Quotes in HTML are created using the blockquote tag in HTML. The text of the quote is enclosed using p tags and the attribute the quote to a person we use the cite quote. We can also use the q tags for creating inline quotes.
 - HTML date and time ...   
 - To display code snippets we use the code tags. Sometimes the code tags do not work when working with HTML and therefor we have to use "&lt;" of less than sign and "&gt;" sign so that HTML does execute the HTML code.
+- We use the &lt; br &gt; tag to break lines in HTML and we use &lt; pre &gt; &lt; /pre&gt; tag for the browser to respect
