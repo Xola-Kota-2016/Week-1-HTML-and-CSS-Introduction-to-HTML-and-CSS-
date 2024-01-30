@@ -40,3 +40,5 @@ Question and Answes
 - Which two elements are used to mark-up subscript and superscript text?
   - &lt;sub&gt;
     &lt;sup&gt;
+- Which HTML code snippet produces the output shown in this image?
+  &lt;p&gt; This is a &lt;/p&gt; demonstration &lt;p&gt; of the paragraph &lt;p&gt; tag &lt;/p&gt; &lt;/p&gt;.
