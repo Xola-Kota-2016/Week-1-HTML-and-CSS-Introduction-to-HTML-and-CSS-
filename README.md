@@ -16,7 +16,7 @@ Question and Answers
 - What happens when HTML is broken because of a bug in the code ?
   - The browser guesses what you meant, and does its best to fix the bug itself.
 - How many elements are there in the following HTML code?
-{<h1> The End of the World is Nigh </h1> <article> Musings on our Current Social Predicament, by <em> Trans I. Tory </em> <p> Random content….</p> </article>}
+  h1 The End of the World is Nigh /h1 article Musings on our Current Social Predicament, by em Trans I. Tory /em p Random content…./p /article
   - Four, because theres four tags.
 
 HTML Text Formatting
