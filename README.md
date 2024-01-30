@@ -26,3 +26,5 @@ HTML Text Formatting
 - There are four elements in HTML that are used for styling text as bold and italic, these are the em and strong tags. And the other two tags are i and b.
 - There are three types of Lists in HTML, Ordered lists, Unordered list and defination list.
 - the li tags are used to list each item and then the ul is used to wrap around the li tags for an unordered list. ol would be used for an ordered list.
+- Another type of list is the definition list. It is used to list items with terms and definitions.
+-  the dt tag is used for the term and the dd tag is used for the definition. The dl tag is used to wrap around the dt and dd tags.  
