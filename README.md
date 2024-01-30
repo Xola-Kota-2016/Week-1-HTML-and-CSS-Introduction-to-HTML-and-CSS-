@@ -21,4 +21,8 @@ Question and Answers
 
 HTML Text Formatting
 
-- HTML uses tags to structure web pages, tags are enclosed in less-than and greater-than symbols to mark different elements. Tags 
+- HTML uses tags to structure web pages, tags are enclosed using less-than and greater-than symbols to mark different elements. For example displaying a paragraph on the web browser using HTML we'd use <p> </p> and then in between these tags will be the text to be displayed. HTML has many other tags that can be used to structure or format a webpage.
+- HTML has 6 levels of Headline tags, h1 is the biggest headline and can be used as the main title. h2, h3.. can be used as subtitles.
+- There are four elements in HTML that are used for styling text as bold and italic, these are the <em> and <strong> tags. And the other two tags are <i? and <b>.
+- There are three types of Lists in HTML, Ordered lists, Unordered list and defination list.
+- the <li> </li> tags are used to list each item and then the <ul></ul> is used to wrap around the <li></li> tags for an unordered list. <ol></ol> would be used for an ordered list.
