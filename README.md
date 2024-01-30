@@ -42,3 +42,7 @@ Question and Answes
     &lt;sup&gt;
 - Which HTML code snippet produces the output shown in this image?
   &lt;p&gt; This is a &lt;/p&gt; demonstration &lt;p&gt; of the paragraph &lt;p&gt; tag &lt;/p&gt; &lt;/p&gt;.
+- When deciding which headline level to use (h1, h2, h3, h4, h5, h6) which of these statements is true?
+  - We should use the level of headline that makes sense, based on the semantic meaning of content.
+- Which markup is correct?
+  &lt;time datetime="2025-10-08"&gt;October 8, 2025&lt;/time&gt;
