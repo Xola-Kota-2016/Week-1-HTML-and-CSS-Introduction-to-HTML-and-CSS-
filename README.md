@@ -37,3 +37,6 @@ HTML Text Formatting
 Question and Answes
 - How do we use HTML elements in combination with each other?
   - &lt;p&gt;Here's some text that &lt;em&gt;should&lt;/em&gt; be emphasized.&lt;/p&gt;
+- Which two elements are used to mark-up subscript and superscript text?
+  - &lt;sub&gt;
+    &lt;sup&gt;
