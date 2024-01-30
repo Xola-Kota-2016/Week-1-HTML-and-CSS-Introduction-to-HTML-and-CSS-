@@ -27,4 +27,7 @@ HTML Text Formatting
 - There are three types of Lists in HTML, Ordered lists, Unordered list and defination list.
 - the li tags are used to list each item and then the ul is used to wrap around the li tags for an unordered list. ol would be used for an ordered list.
 - Another type of list is the definition list. It is used to list items with terms and definitions.
--  the dt tag is used for the term and the dd tag is used for the definition. The dl tag is used to wrap around the dt and dd tags.  
+-  the dt tag is used for the term and the dd tag is used for the definition. The dl tag is used to wrap around the dt and dd tags.
+- Quotes in HTML are created using the blockquote tag in HTML. The text of the quote is enclosed using p tags and the attribute the quote to a person we use the cite quote. We can also use the q tags for creating inline quotes.
+- HTML date and time ...   
+- To display code snippets we use the code tags. Sometimes the code tags do not work when working with HTML and therefor we have to use %lt of less than sign and &gt sign so that HTML does execute the HTML code.
