@@ -25,4 +25,4 @@ HTML Text Formatting
 - HTML has 6 levels of Headline tags, h1 is the biggest headline and can be used as the main title. h2, h3.. can be used as subtitles.
 - There are four elements in HTML that are used for styling text as bold and italic, these are the <em> and <strong> tags. And the other two tags are <i> and <b>.
 - There are three types of Lists in HTML, Ordered lists, Unordered list and defination list.
-- the <li> </li> tags are used to list each item and then the <ul></ul> is used to wrap around the <li></li> tags for an unordered list. <ol></ol> would be used for an ordered list.
+- the <li> tags are used to list each item and then the <ul> is used to wrap around the <li> tags for an unordered list. <ol> would be used for an ordered list.
