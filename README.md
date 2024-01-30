@@ -36,4 +36,4 @@ HTML Text Formatting
 
 Question and Answes
 - How do we use HTML elements in combination with each other?
-  - <pre><p>Here's some text that <em>should</em> be emphasized.</p> </pre>
+  - &lt;p&gt;Here's some text that &lt;em&gt;should&lt;em&gt; be emphasized.&lt;p&gt;
