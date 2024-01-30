@@ -32,4 +32,8 @@ HTML Text Formatting
 - HTML date and time ...   
 - To display code snippets we use the code tags. Sometimes the code tags do not work when working with HTML and therefor we have to use "&lt;" of less than sign and "&gt;" sign so that HTML does execute the HTML code.
 - We use the &lt; br &gt; tag to break lines in HTML and we use &lt; pre &gt; &lt; /pre&gt; tag for the browser to respect.
-- In HTML subscripts, superscripts and small text are used to write text such as math and science formulae. We use the sub tag to write text below the baseline for text and we use sup tag to rise a number to a power for example. We can use the small tag to convey that something has little prominence.  
+- In HTML subscripts, superscripts and small text are used to write text such as math and science formulae. We use the sub tag to write text below the baseline for text and we use sup tag to rise a number to a power for example. We can use the small tag to convey that something has little prominence.
+
+Question and Answes
+- How do we use HTML elements in combination with each other?
+  - <code><p>Here's some text that <em>should</em> be emphasized.</p> </code>
