@@ -74,6 +74,7 @@ Questions and Answers
 - href attribute stands for hypertext reference.
 - Absolute URLs are URLs that point to a precise location on the web. In an absolute URL the Hypertext Transfer Protocol, HTTP or HTTPS must be included.
 - Relative URLs are used to link to local web pages and media files that are used by the same website.
+- Link text is between the a tags or elements, the link address is used by the href attritube.
 - No more notes needed...
 
 Questions and Answers
@@ -84,4 +85,9 @@ Questions and Answers
     &lt;ul&gt;
     &lt;li&gt;
     &lt;a&gt;
+- What is wrong with the following code? http://transferfink.com
+  - The positions of the link text and the link address have been interchanged.
+- How do we make a basic link in HTML?
+  - &lt;a href="https://example.com"&gt;text to click&lt;/a&gt;
+
 
