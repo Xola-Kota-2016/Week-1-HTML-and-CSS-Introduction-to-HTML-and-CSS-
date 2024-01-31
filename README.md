@@ -53,6 +53,6 @@ Question and Answes
 -  HTML attributes add power to any element an example of an attribute is the datatime attribute used on the time tag.
 -  There are four highly useful global attributes. The class attribute is the most commonly used attribute.
 -  It allows us to assign a reusable name to any element which can be styled using CSS for all elements sharing that class.
--  The ID attribute is similar to the class attribute, the difference is we can only use unique names once on the entire HTML
+-  The ID attribute is similar to the class attribute, the difference is we can only use unique names once on the entire HTML. IDs are used for 
 
   
