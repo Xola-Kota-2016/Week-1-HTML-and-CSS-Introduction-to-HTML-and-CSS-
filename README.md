@@ -89,5 +89,7 @@ Questions and Answers
   - The positions of the link text and the link address have been interchanged.
 - How do we make a basic link in HTML?
   - &lt;a href="https://example.com" &gt;text to click&lt;/a&gt;
+- Which address points to a different file than the others?
+ - "/people/"
 
 
