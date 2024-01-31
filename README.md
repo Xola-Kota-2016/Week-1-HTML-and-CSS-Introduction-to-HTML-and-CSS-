@@ -53,6 +53,17 @@ Question and Answes
 -  HTML attributes add power to any element an example of an attribute is the datatime attribute used on the time tag.
 -  There are four highly useful global attributes. The class attribute is the most commonly used attribute.
 -  It allows us to assign a reusable name to any element which can be styled using CSS for all elements sharing that class.
--  The ID attribute is similar to the class attribute, the difference is we can only use unique names once on the entire HTML. IDs are used for 
-
+-  The ID attribute is similar to the class attribute, the difference is we can only use unique names once on the entire HTML. IDs are used for CSS targeting. The other two global attributes are lang and dir, the lang attribute is used to specify language of the content using a short language code. The dir attribute explicitly indicates the direction in which the text flows.
+-  the ARIA roles short for Accessible Rich Internet roles are HTML attributes that provide information to assistive technologies like screen readers, braille displays and magnifiers to ensure the website is fully accessible even to people with disabitity.
+-  In HTML comments are inserted by typing <!-- at the start and --!> at the end.
+- We can use &nbsp; in HTML to keep words together regardless of screen display changes.
   
+Questions and Answers
+- How does a user gain access to the debugging features of a browser?
+   - By accessing developer tools.
+- Which of these attributes is NOT a global attribute?
+   - datetime
+- What sort of efforts require the use and understanding of ARIA attributes?
+   - Those involving accessibility issues.
+- How does the output from the following code appear?
+  - &lt;h1&gt; This is a test. &lt;/h1&gt; &lt;p&gt; If this were an actual emergency, <!-- Should there be an actual emergency? --> there would be panic. &lt;/p&gt;
