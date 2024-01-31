@@ -67,3 +67,21 @@ Questions and Answers
    - Those involving accessibility issues.
 - How does the output from the following code appear?
   - &lt;h1&gt; This is a test. &lt;/h1&gt; &lt;p&gt; If this were an actual emergency, <!-- Should there be an actual emergency? --> there would be panic. &lt;/p&gt;
+
+4. HTML Navigation and Linking
+   
+- To create a link we use the anchor element 'a', inorder for the link to work we use the href attribute with a valid URL. The URL is where the link will take us.
+- href attribute stands for hypertext reference.
+- Absolute URLs are URLs that point to a precise location on the web. In an absolute URL the Hypertext Transfer Protocol, HTTP or HTTPS must be included.
+- Relative URLs are used to link to local web pages and media files that are used by the same website.
+- No more notes needed...
+
+Questions and Answers
+- The navigation items in the image below are elements in an unordered list. How is the appearance of a navigation bar created?
+   - By using CSS
+- Which HTML elements are commonly used in marking up navigation?
+  - &lt;nav&gt;
+    &lt;ul&gt;
+    &lt;li&gt;
+    &lt;a&gt;
+
