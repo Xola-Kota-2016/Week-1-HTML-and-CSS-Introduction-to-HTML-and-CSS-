@@ -92,4 +92,6 @@ Questions and Answers
 - Which address points to a different file than the others?
   - "/people/"
 
+5. HTMl Working with Graphics and images
 
+- To insert an image in HTML is we use the img element, it has four attributes namely src, alt, width and height. These attributes specify the location of the image, image text tag, width and height of the image respectively.
