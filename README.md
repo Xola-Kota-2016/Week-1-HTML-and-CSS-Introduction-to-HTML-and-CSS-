@@ -97,8 +97,15 @@ Questions and Answers
 - To insert an image in HTML we use the img element, it has four attributes namely src, alt, width and height. These attributes specify the location of the image, image text tag, width and height of the image respectively. It is important to specify the width and height of an image by using the width and height attribute.
 - The are four image formats commonly used that the browser can read, each format has its strengths and weaknesses when it comes to compressing images.
 - GIF :-
-     - Strength: are great at compressing large areas of the same color
-     - Weakness: photographs, it only supports 256 colors, transparent areas
-- SVG :-
-     -
+     - Strength: are great at compressing large areas of the same color.
+     - Weakness: photographs, it only supports 256 colors, transparent areas.
+- SVG :- is a vector file that contains instructions for drawing rather than individual pixels:-
+        SVG is a programming language for graphics .
+      - Strength: It can be scaled to any size with losing quantity and the file size perfect for logos, icons and other types of illustrations.
+      - Weakness:
+- JPG :-
+     - Strength: popular choice for compressing photographs.
+     - Weakness: may slow down loading speed if not compressed.
+- PNG :-
+     - Strength: it is the latest format works when you need transparency in a photograph. It sometimes out outperforms both GIF and JPG in compressing certain types of images.
 
