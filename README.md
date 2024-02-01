@@ -108,4 +108,5 @@ Questions and Answers
      - Weakness: may slow down loading speed if not compressed.
 - PNG :-
      - Strength: it is the latest format works when you need transparency in a photograph. It sometimes out outperforms both GIF and JPG in compressing certain types of images.
+- When working with image file we must consider the image file format, physical size and compression settings to ensure fast download speeds. 
 
