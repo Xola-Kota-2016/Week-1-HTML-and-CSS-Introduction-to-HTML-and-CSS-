@@ -128,11 +128,11 @@ Writing Your First Comment and Element Selector
 - A CSS element selector selects the html element you want to style.
 - A CSS class selector, styles elements targeted by a class.
 
-3. Grouping Selectors
+Grouping Selectors
 
 Most likely, you would write something like this: li {green;}If this was your thinking, that is correct! But what if we had many other elements and classes that also needed to be green? It would be a lot of repetitive code if this route was followed. This is where grouping selectors come in handy. Instead of writing separate styles for p and li, we can combine them using a comma:p, li {green;} . The web browser will apply this style to all paragraphs and list items, evaluating each one individually. What about using a class? We can do that too. 
 
-4. Descendent Selectors
+Descendent Selectors
 
 A descendant selector allows us to select list items that are descendants of either an ordered or an unordered list. The relationship can be direct or indirect, similar to a family tree.
 To apply the styles using a descendant selector, we can use the code "OL LI" (without the body tag). Here, the space between "OL" and "LI" signifies the descendant relationship. We can then set the color to blue and the font weight to bold. Only the list items that are part of the ordered list will be affected.
@@ -141,9 +141,26 @@ When working with CSS selectors that involve multiple terms, it is important to 
 
 It is now your turn to give it a try. Write a style that selects the list items in the unordered list and make them purple and uppercase. Once you are done, check the final state of the code pen in the exercise files to see if your answer is correct.
 
-5. Practice Exercise: Working with selectors
+3. CSS Images and Colors
 
+Identify a Color Scheme
+When it comes to color, it may seem simple, but it is a topic that deserves its own course. The goal is to choose a color scheme or specific colors for your website. So, where do we get a color palette from? 
 
+If you have a design background, you can create one yourself. However, if you struggle with color choices, do not worry! There are plenty of resources available. We will explain Canva's approach, but if you search for a color palette generator on Google, there are many other options available.
+
+Canva is like a friendly graphic design companion for non-designers. They offer three different methods for creating color palettes. The first one is displayed at the top of their webpage, and you can find the link in your exercise files folder. Take a look at this beautiful color palette inspired by a picture of donuts. Canva extracted some colors from the donut picture that you can use for a webpage about donuts. Another way to create a color palette is by trying their demo image.
+
+5. Background and Text Color in CSS
+
+In the exercise files, you'll find links to the starting and ending states for Sublime Text, along with additional resources. Let's begin by testing a named color. 
+
+6. Understanding Images in CSS
+
+There are various image formats, like GIF, PNG, JPEG, bitmap, TIFF, and more proprietary formats like PSD. Traditionally, the web has supported three types of image formats. 
+
+GIF:  Had limited colors but could include transparency and animation. 
+PNG:  Had more colors and transparency but no animation. GIF and PNG were suitable for illustrations such as logos or cartoons. 
+JPEG:  Stands for Joint Photographic Experts Group, was optimized for photographs and supported millions of colors but lacked transparency and animation. 
 
 
 
