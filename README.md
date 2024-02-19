@@ -162,6 +162,7 @@ GIF:  Had limited colors but could include transparency and animation.
 PNG:  Had more colors and transparency but no animation. GIF and PNG were suitable for illustrations such as logos or cartoons. 
 JPEG:  Stands for Joint Photographic Experts Group, was optimized for photographs and supported millions of colors but lacked transparency and animation. 
 
+7. Working with Background Images in CSS
 
 
 
