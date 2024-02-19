@@ -108,5 +108,43 @@ Questions and Answers
      - Weakness: may slow down loading speed if not compressed.
 - PNG :-
      - Strength: it is the latest format works when you need transparency in a photograph. It sometimes out outperforms both GIF and JPG in compressing certain types of images.
-- When working with image file we must consider the image file format, physical size and compression settings to ensure fast download speeds. 
+- When working with image file we must consider the image file format, physical size and compression settings to ensure fast download speeds.
+
+HTML & CSS 102 - Introduction to CSS
+
+1. HTML and CSS
+
+Cascading Style Sheet is used to style web pages (HTML), including the design, layoutand variations in display for different devices and screen sizes. A style sheet is like a CSS file that holds all the styles for your webpage.
+To make our pages look better by changing the font, colors, and spacing, we need CSS.
+
+CSS has two parts: 
+   1. The selector - specifies a pattern in the HTML, and if the pattern matches, the styles within the declaration block are applied to the corresponding HTML elements.
+   2. The declaration block - has property and value.
+
+2. Adding CSS Selectors
+
+Writing Your First Comment and Element Selector
+
+- A CSS element selector selects the html element you want to style.
+- A CSS class selector, styles elements targeted by a class.
+
+3. Grouping Selectors
+
+Most likely, you would write something like this: li {green;}If this was your thinking, that is correct! But what if we had many other elements and classes that also needed to be green? It would be a lot of repetitive code if this route was followed. This is where grouping selectors come in handy. Instead of writing separate styles for p and li, we can combine them using a comma:p, li {green;} . The web browser will apply this style to all paragraphs and list items, evaluating each one individually. What about using a class? We can do that too. 
+
+4. Descendent Selectors
+
+A descendant selector allows us to select list items that are descendants of either an ordered or an unordered list. The relationship can be direct or indirect, similar to a family tree.
+To apply the styles using a descendant selector, we can use the code "OL LI" (without the body tag). Here, the space between "OL" and "LI" signifies the descendant relationship. We can then set the color to blue and the font weight to bold. Only the list items that are part of the ordered list will be affected.
+
+When working with CSS selectors that involve multiple terms, it is important to remember that they are read from right to left, even though we write them from left to right. In this case, we are saying "any list item descended from an ordered list". 
+
+It is now your turn to give it a try. Write a style that selects the list items in the unordered list and make them purple and uppercase. Once you are done, check the final state of the code pen in the exercise files to see if your answer is correct.
+
+5. Practice Exercise: Working with selectors
+
+
+
+
+
 
