@@ -112,7 +112,7 @@ Questions and Answers
 
 HTML & CSS 102 - Introduction to CSS
 
-1. HTML and CSS
+1. Introduction to CSS
 
 Cascading Style Sheet is used to style web pages (HTML), including the design, layoutand variations in display for different devices and screen sizes. A style sheet is like a CSS file that holds all the styles for your webpage.
 To make our pages look better by changing the font, colors, and spacing, we need CSS.
@@ -150,11 +150,11 @@ If you have a design background, you can create one yourself. However, if you st
 
 Canva is like a friendly graphic design companion for non-designers. They offer three different methods for creating color palettes. The first one is displayed at the top of their webpage, and you can find the link in your exercise files folder. Take a look at this beautiful color palette inspired by a picture of donuts. Canva extracted some colors from the donut picture that you can use for a webpage about donuts. Another way to create a color palette is by trying their demo image.
 
-5. Background and Text Color in CSS
+Background and Text Color in CSS
 
 In the exercise files, you'll find links to the starting and ending states for Sublime Text, along with additional resources. Let's begin by testing a named color. 
 
-6. Understanding Images in CSS
+Understanding Images in CSS
 
 There are various image formats, like GIF, PNG, JPEG, bitmap, TIFF, and more proprietary formats like PSD. Traditionally, the web has supported three types of image formats. 
 
@@ -162,7 +162,13 @@ GIF:  Had limited colors but could include transparency and animation.
 PNG:  Had more colors and transparency but no animation. GIF and PNG were suitable for illustrations such as logos or cartoons. 
 JPEG:  Stands for Joint Photographic Experts Group, was optimized for photographs and supported millions of colors but lacked transparency and animation. 
 
-7. Working with Background Images in CSS
+Working with Background Images in CSS
 
+4. CSS Boxes, Types and Sizes
 
+Understanding Type in CSS
+In general, people who are not designers usually categorize fonts into two types: 
+
+1. Serif.
+2. Sans serif. 
 
